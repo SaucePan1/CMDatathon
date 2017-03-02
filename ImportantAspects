@@ -1,3 +1,5 @@
+# Comments
+
 1. Train size > 3 million rows. Test size > 1 million rows.
 2. The clients in both files are different. Train > 1/2 million clients. Test > 1/4 million clients.
 3. There are almost 16% and 11% of clients with only one product in test and train, respectively.
